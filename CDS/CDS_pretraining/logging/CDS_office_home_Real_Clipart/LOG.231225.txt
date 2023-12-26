@@ -1,0 +1,74 @@
+CDS_pretraining.py --dataset office_home --source Real --target Clipart --gpu_id 8
+dataset office_home source Real target Clipart split0
+source data len : 4357
+target data len : 4365
+1.0
+epoch: start:0
+CDS_pretraining.py --dataset office_home --source Real --target Clipart --gpu_id 8
+dataset office_home source Real target Clipart split0
+source data len : 4357
+target data len : 4365
+1.0
+epoch: start:0
+CDS_pretraining.py --dataset office_home --source Real --target Clipart --gpu_id 8
+dataset office_home source Real target Clipart split0
+source data len : 4357
+target data len : 4365
+1.0
+epoch: start:0
+CDS_pretraining.py --dataset office_home --source Real --target Clipart --gpu_id 8
+dataset office_home source Real target Clipart split0
+source data len : 4357
+target data len : 4365
+1.0
+epoch: start:0
+CDS_pretraining.py --dataset office_home --source Real --target Clipart --gpu_id 8
+dataset office_home source Real target Clipart split0
+source data len : 4357
+target data len : 4365
+1.0
+epoch: start:0
+CDS_pretraining.py --dataset office_home --source Real --target Clipart --gpu_id 8
+dataset office_home source Real target Clipart split0
+source data len : 4357
+target data len : 4365
+1.0
+epoch: start:0
+Test [4365/4365]	Net Time 0.196 (0.017)	Cls Time 0.001 (0.015)	Top1: 39.31  Top5: 64.67
+time: 46.63172698020935
+source-target
+Test [4365/4365]	Net Time 0.008 (0.011)	Cls Time 0.004 (0.016)	Top1: 48.59  Top5: 71.34
+CDS_pretraining.py --dataset office_home --source Real --target Clipart --gpu_id 8
+dataset office_home source Real target Clipart split0
+source data len : 4357
+target data len : 4365
+1.0
+epoch: start:0
+Test [4365/4365]	Net Time 0.163 (0.015)	Cls Time 0.001 (0.015)	Top1: 40.16  Top5: 65.80
+time: 47.16739892959595
+source-target
+Test [4365/4365]	Net Time 0.007 (0.011)	Cls Time 0.005 (0.016)	Top1: 46.37  Top5: 69.97
+epoch: start:1
+time: 44.52827858924866
+source-target
+Test [4365/4365]	Net Time 0.009 (0.014)	Cls Time 0.002 (0.014)	Top1: 50.38  Top5: 73.47
+epoch: start:2
+time: 43.66052603721619
+source-target
+Test [4365/4365]	Net Time 0.008 (0.013)	Cls Time 0.004 (0.015)	Top1: 51.09  Top5: 73.77
+epoch: start:3
+time: 43.639758586883545
+source-target
+Test [4365/4365]	Net Time 0.007 (0.012)	Cls Time 0.005 (0.015)	Top1: 51.23  Top5: 72.33
+epoch: start:4
+time: 44.67313241958618
+source-target
+Test [4365/4365]	Net Time 0.007 (0.011)	Cls Time 0.005 (0.015)	Top1: 51.73  Top5: 72.39
+epoch: start:5
+time: 44.62026047706604
+source-target
+Test [4365/4365]	Net Time 0.008 (0.011)	Cls Time 0.004 (0.016)	Top1: 52.14  Top5: 71.80
+epoch: start:6
+time: 45.45632886886597
+source-target
+Test [4365/4365]	Net Time 0.008 (0.012)	Cls Time 0.004 (0.015)	Top1: 52.39  Top5: 71.36
